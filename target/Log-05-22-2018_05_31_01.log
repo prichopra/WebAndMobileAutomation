@@ -1,0 +1,19 @@
+2018-05-22 17:31:01 INFO  GlobalHooks:32 - -------------------------------------------------------------------------------------------------------------
+2018-05-22 17:31:01 INFO  GlobalHooks:33 - Running scenario Send an email
+2018-05-22 17:31:01 INFO  GlobalHooks:34 - Initiating driver object
+2018-05-22 17:31:01 INFO  GlobalHooks:31 - Selected Browser ischrome
+2018-05-22 17:31:01 INFO  GlobalHooks:49 - Got the path
+2018-05-22 17:31:20 INFO  GlobalHooks:51 - Chrome driver has been returned
+2018-05-22 17:31:21 INFO  GlobalHooks:49 - Got the path
+2018-05-22 17:31:31 INFO  GlobalHooks:51 - Chrome driver has been returned
+2018-05-22 17:31:32 INFO  GlobalHooks:49 - Got the path
+2018-05-22 17:31:44 INFO  GlobalHooks:51 - Chrome driver has been returned
+2018-05-22 17:31:45 INFO  GlobalHooks:45 - Send an email is failed
+2018-05-22 17:31:45 INFO  GlobalHooks:46 -  Adding screenshot
+2018-05-22 17:31:50 INFO  GlobalHooks:52 - Killing driver object
+2018-05-22 17:31:50 INFO  GlobalHooks:53 - Completed scenario Send an email
+2018-05-22 17:31:50 INFO  GlobalHooks:54 - -------------------------------------------------------------------------------------------------------------
+2018-05-22 17:31:51 INFO  GlobalHooks:32 - -------------------------------------------------------------------------------------------------------------
+2018-05-22 17:31:51 INFO  GlobalHooks:33 - Running scenario Login into gmail
+2018-05-22 17:31:51 INFO  GlobalHooks:34 - Initiating driver object
+2018-05-22 17:31:51 INFO  GlobalHooks:49 - Got the path

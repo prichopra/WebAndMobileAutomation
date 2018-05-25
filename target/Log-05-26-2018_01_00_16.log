@@ -1,0 +1,9 @@
+2018-05-26 01:00:16 INFO  GlobalHooks:30 - -------------------------------------------------------------------------------------------------------------
+2018-05-26 01:00:16 INFO  GlobalHooks:31 - Running scenario Login into Straits Time Mobile App
+2018-05-26 01:00:16 INFO  GlobalHooks:32 - Initiating driver object
+2018-05-26 01:01:10 INFO  GlobalHooks:78 - Android driver has been returned
+2018-05-26 01:02:35 INFO  GlobalHooks:43 - Login into Straits Time Mobile App is failed
+2018-05-26 01:02:35 INFO  GlobalHooks:44 -  Adding screenshot
+2018-05-26 01:02:42 INFO  GlobalHooks:50 - Killing driver object
+2018-05-26 01:02:42 INFO  GlobalHooks:51 - Completed scenario Login into Straits Time Mobile App
+2018-05-26 01:02:42 INFO  GlobalHooks:52 - -------------------------------------------------------------------------------------------------------------

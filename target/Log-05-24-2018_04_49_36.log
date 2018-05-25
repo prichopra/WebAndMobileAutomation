@@ -1,0 +1,8 @@
+2018-05-24 16:49:37 INFO  GlobalHooks:30 - -------------------------------------------------------------------------------------------------------------
+2018-05-24 16:49:37 INFO  GlobalHooks:31 - Running scenario Login into Straits Time
+2018-05-24 16:49:37 INFO  GlobalHooks:32 - Initiating driver object
+2018-05-24 16:50:05 INFO  GlobalHooks:164 - Chrome driver has been returned
+2018-05-24 16:51:18 INFO  GlobalHooks:43 - Login into Straits Time is failed
+2018-05-24 16:51:18 INFO  GlobalHooks:44 -  Adding screenshot
+2018-05-24 16:51:47 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:29093: Connection reset
+2018-05-24 16:51:47 INFO  RetryExec:113 - Retrying request to {}->http://localhost:29093

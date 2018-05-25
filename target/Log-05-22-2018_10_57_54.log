@@ -1,0 +1,10 @@
+2018-05-22 22:57:54 INFO  GlobalHooks:32 - -------------------------------------------------------------------------------------------------------------
+2018-05-22 22:57:54 INFO  GlobalHooks:33 - Running scenario Login into Straits Time
+2018-05-22 22:57:54 INFO  GlobalHooks:34 - Initiating driver object
+2018-05-22 22:57:55 INFO  GlobalHooks:40 - Selected Browser ischrome
+2018-05-22 22:57:55 INFO  GlobalHooks:54 - Got the path
+2018-05-22 22:58:28 INFO  GlobalHooks:45 - Login into Straits Time is failed
+2018-05-22 22:58:28 INFO  GlobalHooks:46 -  Adding screenshot
+2018-05-22 22:58:28 INFO  GlobalHooks:52 - Killing driver object
+2018-05-22 22:58:28 INFO  GlobalHooks:53 - Completed scenario Login into Straits Time
+2018-05-22 22:58:28 INFO  GlobalHooks:54 - -------------------------------------------------------------------------------------------------------------

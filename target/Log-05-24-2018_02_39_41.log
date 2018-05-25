@@ -1,0 +1,8 @@
+2018-05-24 14:39:41 INFO  GlobalHooks:30 - -------------------------------------------------------------------------------------------------------------
+2018-05-24 14:39:41 INFO  GlobalHooks:31 - Running scenario Login into Straits Time
+2018-05-24 14:39:41 INFO  GlobalHooks:32 - Initiating driver object
+2018-05-24 14:41:19 INFO  GlobalHooks:43 - Login into Straits Time is failed
+2018-05-24 14:41:19 INFO  GlobalHooks:44 -  Adding screenshot
+2018-05-24 14:41:19 INFO  GlobalHooks:50 - Killing driver object
+2018-05-24 14:41:19 INFO  GlobalHooks:51 - Completed scenario Login into Straits Time
+2018-05-24 14:41:19 INFO  GlobalHooks:52 - -------------------------------------------------------------------------------------------------------------

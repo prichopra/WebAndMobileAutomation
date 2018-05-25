@@ -1,0 +1,9 @@
+2018-05-25 21:00:27 INFO  GlobalHooks:30 - -------------------------------------------------------------------------------------------------------------
+2018-05-25 21:00:27 INFO  GlobalHooks:31 - Running scenario Login into Straits Time website
+2018-05-25 21:00:27 INFO  GlobalHooks:32 - Initiating driver object
+2018-05-25 21:00:36 INFO  GlobalHooks:159 - Chrome driver has been returned
+2018-05-25 21:02:57 INFO  GlobalHooks:43 - Login into Straits Time website is failed
+2018-05-25 21:02:57 INFO  GlobalHooks:44 -  Adding screenshot
+2018-05-25 21:02:58 INFO  GlobalHooks:50 - Killing driver object
+2018-05-25 21:02:58 INFO  GlobalHooks:51 - Completed scenario Login into Straits Time website
+2018-05-25 21:02:58 INFO  GlobalHooks:52 - -------------------------------------------------------------------------------------------------------------
